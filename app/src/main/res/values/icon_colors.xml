@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="icon_bg_neon">#07130A</color>
+    <color name="icon_bg_pulse">#071B2C</color>
+    <color name="icon_bg_sunset">#2A111A</color>
+    <color name="icon_bg_mono">#111411</color>
+    <color name="icon_bg_violet">#1A1229</color>
+    <color name="icon_bg_emerald">#061D17</color>
+    <color name="icon_bg_amber">#291B08</color>
+    <color name="icon_bg_cyan">#071D22</color>
+</resources>

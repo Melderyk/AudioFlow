@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioFlow</string>
+    <string name="notification_channel_name">全局音频效果</string>
+    <string name="notification_channel_description">保持 AudioFlow 的全局 EQ 正常运行</string>
+    <string name="accessibility_label">AudioFlow 无通知保活</string>
+    <string name="accessibility_description">可选的个人测试模式。启用后由无障碍服务保持音频效果器运行，不再依赖带通知的前台服务，不读取屏幕内容。</string>
+</resources>
